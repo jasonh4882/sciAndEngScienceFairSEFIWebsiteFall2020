@@ -1,9 +1,4 @@
-# Science and Engineering State Science Fair SEFI Scoring Website
-Presentations:
-https://youtu.be/QU950J0SO2c
-https://youtu.be/TOnA4ERuecI
-https://youtu.be/zPURaTctIdk
-
+# Science and Engineering State Science Fair SEFI Scoring Website #
 
 
 ## Description
@@ -12,13 +7,11 @@ This project was created as a potential candidate to become the new backend scor
 
 The SEFI representative that worked as a client for this project was Andy Harris. A comprehensive video of what was requested:
 
-![insertVidHere](vidPath)
+
+
+![clientSpecification](\presentationVideos\RMvideos\RMclientSpecification.mp4)
 
 And can also be found [here](https://youtu.be/tKbb4GgfZn8)
-
-## Hardware Used
-
-*Remove if not necessary*
     
 ## Software
 
@@ -28,19 +21,41 @@ And can also be found [here](https://youtu.be/tKbb4GgfZn8)
 
 *Enter how to install here*
 
-## Imagery
+## Presentations
 
-### Media 1 ###
+### Presentation 1 ###
 
-![imageName1](imagePath1)
+![RMpresentation1](\presentationVideos\RMvideos\RMpresentation1.mp4)
 
-### Media 2 ###
+And can also be found [here](https://youtu.be/QAttRceeWhw)
 
-![imageName2](imagePath2)
+### Presentation 2 ###
 
-### Media N ###
+![RMpresentation2a](\presentationVideos\RMvideos\RMpresentation2a.mp4)
 
-![imageNameN](imagePathN)
+![RMpresentation2b](\presentationVideos\RMvideos\RMpresentation2b.mp4)
+
+![RMpresentation2c](\presentationVideos\RMvideos\RMpresentation2c.mp4)
+
+And can also be found [here](https://youtu.be/zPURaTctIdk)
+
+### Presentation 3 ###
+
+![RMpresentation3a](\presentationVideos\RMvideos\RMpresentation3a.mp4)
+
+![RMpresentation3b](\presentationVideos\RMvideos\RMpresentation3b.mp4)
+
+And can also be found [here](https://youtu.be/TOnA4ERuecI)
+
+### Presentation 4 ###
+
+![RMpresentation4a](\presentationVideos\RMvideos\RMpresentation4a.mp4)
+
+![RMpresentation4b](\presentationVideos\RMvideos\RMpresentation4b.mp4)
+
+![RMpresentation4c](\presentationVideos\RMvideos\RMpresentation4c.mp4)
+
+And can also be found [here](https://youtu.be/QU950J0SO2c)
 
 ## Roadmap
 
