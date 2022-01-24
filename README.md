@@ -22,6 +22,8 @@ The website prototype was hosted on the IUPUI corasir server and was accessed th
 
 ## Presentations
 
+***NOTE**: The quality of the embeded videos is not great. For better quality, visit the Youtube link or download the higher quality .mp4 file(s)*
+
 ### Presentation 1 ###
 
 ![1st Presentation](/presentationVideos/RMvideos/RMpresentation1.mp4)
