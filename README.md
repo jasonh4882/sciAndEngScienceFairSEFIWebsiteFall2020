@@ -1,8 +1,8 @@
 # Science and Engineering State Science Fair SEFI Scoring Website #
 
-## Description
+## Description ##
 
-This project was created as a potential candidate to become the new backend scoring website for the annual SEFI State Science Fair. This submission acted as one possibility out of ten that were pitched to the SEFI comittee. 
+This project was created as a potential candidate to become the new backend scoring website for the annual SEFI State Science Fair. This submission acted as one possibility out of ten that were pitched to the SEFI committee. 
 
 The SEFI representative that worked as a client for this project was Andy Harris. A comprehensive video of what was requested:
 
@@ -18,7 +18,7 @@ As a part of the candidate process, four progress presentations were made over t
 
 ## Software
 
-The website prototype was hosted on the IUPUI corasir server and was accessed through [WinSCP](https://winscp.net/eng/index.php) and [PuTTy](https://www.putty.org/) terminal. All webpages were edited in text editors, such as Notepad.exe
+The website prototype was hosted on the IUPUI corsair server and was accessed through [WinSCP](https://winscp.net/eng/index.php) and [PuTTy](https://www.putty.org/) terminal. All webpages were edited in text editors, such as Notepad.exe
 
 ## Presentations
 
@@ -94,12 +94,12 @@ Presentation 4 video can also be found on YouTube [here](https://youtu.be/QU950J
 
 ## Roadmap
 
-At the end of the Fall 2020 Semester, all ten teams submitted their final prototype for the SEFI Science Fair website. No further contact was made to the group after the end of the semester, so nothing can be said about what decision the comittee made toward which group's efforts were continued. No further work will be done as a result.
+At the end of the Fall 2020 Semester, all ten teams submitted their final prototype for the SEFI Science Fair website. No further contact was made to the group after the end of the semester, so nothing can be said about what decision the committee made toward which group's efforts were continued. No further work will be done as a result.
 
 ## Authors & Acknowledgments
 
-All work was done in response to a request from Professor Harris Andy Harris
-The prototype website was contstructed by four undergraduate students:
+All work was done in response to a request from Professor Andy Harris
+The prototype website was constructed by four undergraduate students:
 - [Jake Waggoner](https://github.iu.edu/jwaggon)
 - [Jacob Heebner](https://github.iu.edu/jheebner)
 - [Jason Hampshire](https://github.iu.edu/jchampsh)
